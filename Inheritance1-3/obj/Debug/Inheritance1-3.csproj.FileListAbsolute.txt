@@ -1,0 +1,6 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\bin\Debug\Inheritance1-3.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\bin\Debug\Inheritance1-3.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\bin\Debug\Inheritance1-3.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\obj\Debug\Inheritance1-3.csprojResolveAssemblyReference.cache
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\obj\Debug\Inheritance1-3.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Inheritance1-3\obj\Debug\Inheritance1-3.pdb

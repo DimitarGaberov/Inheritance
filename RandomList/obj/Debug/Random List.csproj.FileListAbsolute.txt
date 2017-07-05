@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\RandomList\bin\Debug\RandomList.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\RandomList\bin\Debug\RandomList.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\RandomList\bin\Debug\RandomList.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\RandomList\obj\Debug\RandomList.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\RandomList\obj\Debug\RandomList.pdb

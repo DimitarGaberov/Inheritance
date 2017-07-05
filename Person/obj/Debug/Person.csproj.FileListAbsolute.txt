@@ -1,0 +1,6 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\bin\Debug\Person.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\bin\Debug\Person.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\bin\Debug\Person.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\obj\Debug\Person.csprojResolveAssemblyReference.cache
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\obj\Debug\Person.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Person\obj\Debug\Person.pdb

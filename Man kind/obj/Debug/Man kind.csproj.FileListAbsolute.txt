@@ -1,0 +1,6 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\bin\Debug\Man kind.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\bin\Debug\Man kind.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\bin\Debug\Man kind.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\obj\Debug\Man kind.csprojResolveAssemblyReference.cache
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\obj\Debug\Man kind.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Man kind\obj\Debug\Man kind.pdb

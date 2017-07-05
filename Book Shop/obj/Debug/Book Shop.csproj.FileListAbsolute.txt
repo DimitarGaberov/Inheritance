@@ -1,0 +1,6 @@
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.exe.config
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\bin\Debug\Book Shop.pdb
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.csprojResolveAssemblyReference.cache
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.exe
+C:\Users\dimit\documents\visual studio 2017\Projects\Inheritance\Book Shop\obj\Debug\Book Shop.pdb

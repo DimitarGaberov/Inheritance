@@ -1,0 +1,5 @@
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Stack of Strings\bin\Debug\Stack of Strings.exe.config
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Stack of Strings\bin\Debug\Stack of Strings.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Stack of Strings\bin\Debug\Stack of Strings.pdb
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Stack of Strings\obj\Debug\Stack of Strings.exe
+c:\users\dimit\documents\visual studio 2017\Projects\Inheritance\Stack of Strings\obj\Debug\Stack of Strings.pdb
